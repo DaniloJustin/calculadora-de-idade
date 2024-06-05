@@ -1,0 +1,38 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+}
+
+h1 {
+    margin-top: 20px;
+}
+
+input:focus-within {
+    background-color: #5f2c82;
+}
+
+input#anoNascimento {
+    margin: 10px;
+    padding: 6.2px;
+
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 1em;
+    color: black;
+    
+}
+
+button.botao {
+    margin: 10px;
+    padding: 6px;
+    font-size: 1em;
+    
+}
+
+button.botao:hover {
+    background-color: #5f2c82;
+}
+
+p {
+    margin-top: 10px;
+    
+}
